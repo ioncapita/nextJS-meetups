@@ -4,4 +4,5 @@
 
 # Was used MongoDB to store the data.
 
-Link: https://nextjs-meetups-eight.vercel.app/
+Link: https://next-js-meetups.vercel.app/
+
